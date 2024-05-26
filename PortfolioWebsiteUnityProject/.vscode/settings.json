@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Portfolio Website.sln"
+    "dotnet.defaultSolution": "PortfolioWebsiteUnityProject.sln"
 }
