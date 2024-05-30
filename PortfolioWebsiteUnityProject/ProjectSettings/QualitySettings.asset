@@ -4,7 +4,7 @@
 QualitySettings:
   m_ObjectHideFlags: 0
   serializedVersion: 5
-  m_CurrentQuality: 0
+  m_CurrentQuality: 1
   m_QualitySettings:
   - serializedVersion: 3
     name: Performant
@@ -109,7 +109,6 @@ QualitySettings:
     - Standalone
     - Server
     - Android
-    - WebGL
   - serializedVersion: 3
     name: High Fidelity
     pixelLightCount: 2
@@ -160,8 +159,8 @@ QualitySettings:
     terrainFadeLength: 5
     terrainMaxTrees: 50
     excludedTargetPlatforms:
-    - Standalone
     - Server
+    - Standalone
     - Android
     - WebGL
   m_TextureMipmapLimitGroupNames: []
@@ -177,7 +176,7 @@ QualitySettings:
     Server: 0
     Stadia: 2
     Standalone: 0
-    WebGL: 0
+    WebGL: 1
     Windows Store Apps: 2
     XboxOne: 2
     iPhone: 1
